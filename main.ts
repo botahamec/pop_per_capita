@@ -32,7 +32,7 @@ class RegionalBloc {
 }
 
 class Country {
-	constructor(private name: string,
+	constructor(public name: string,
 	            private topLevelDomain: Array<string>,
 	            private alpha2Code: string,
 	            private alpha3Code: string,
@@ -54,7 +54,7 @@ class Country {
 	            private regionalBlocs: Array<string>,
 	            private cloc: string) {}
 
-	getName(): string {
+	public getName(): string {
 		return this.name;
 	}
 }
@@ -63,6 +63,19 @@ function getCountriesFromFile(filename: string = "all.json"): Array<Country>  {
 	return <Array<Country>> readJsonSync(filename);
 }
 
-function main() {}
+function main() {
+	const all = <Array<Country>> readJsonSync("all.json");
+	const sortedAll = all.sort((a, b) => a.name > b.name ? 1 : -1);
+	const stringAllList = sortedAll.map(c => c.name);
+
+	let listJoin = "";
+	let int = 0;
+	for (let country of stringAllList) {
+		int ++;
+		listJoin += int + ". " + country + " - 1 person per capita\n";
+	}
+
+	console.log(listJoin);
+}
 
 main();

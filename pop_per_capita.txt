@@ -1,0 +1,251 @@
+1. Afghanistan - 1 person per capita
+2. Albania - 1 person per capita
+3. Algeria - 1 person per capita
+4. American Samoa - 1 person per capita
+5. Andorra - 1 person per capita
+6. Angola - 1 person per capita
+7. Anguilla - 1 person per capita
+8. Antarctica - 1 person per capita
+9. Antigua and Barbuda - 1 person per capita
+10. Argentina - 1 person per capita
+11. Armenia - 1 person per capita
+12. Aruba - 1 person per capita
+13. Australia - 1 person per capita
+14. Austria - 1 person per capita
+15. Azerbaijan - 1 person per capita
+16. Bahamas - 1 person per capita
+17. Bahrain - 1 person per capita
+18. Bangladesh - 1 person per capita
+19. Barbados - 1 person per capita
+20. Belarus - 1 person per capita
+21. Belgium - 1 person per capita
+22. Belize - 1 person per capita
+23. Benin - 1 person per capita
+24. Bermuda - 1 person per capita
+25. Bhutan - 1 person per capita
+26. Bolivia (Plurinational State of) - 1 person per capita
+27. Bonaire, Sint Eustatius and Saba - 1 person per capita
+28. Bosnia and Herzegovina - 1 person per capita
+29. Botswana - 1 person per capita
+30. Bouvet Island - 1 person per capita
+31. Brazil - 1 person per capita
+32. British Indian Ocean Territory - 1 person per capita
+33. Brunei Darussalam - 1 person per capita
+34. Bulgaria - 1 person per capita
+35. Burkina Faso - 1 person per capita
+36. Burundi - 1 person per capita
+37. Cabo Verde - 1 person per capita
+38. Cambodia - 1 person per capita
+39. Cameroon - 1 person per capita
+40. Canada - 1 person per capita
+41. Cayman Islands - 1 person per capita
+42. Central African Republic - 1 person per capita
+43. Chad - 1 person per capita
+44. Chile - 1 person per capita
+45. China - 1 person per capita
+46. Christmas Island - 1 person per capita
+47. Cocos (Keeling) Islands - 1 person per capita
+48. Colombia - 1 person per capita
+49. Comoros - 1 person per capita
+50. Congo - 1 person per capita
+51. Congo (Democratic Republic of the) - 1 person per capita
+52. Cook Islands - 1 person per capita
+53. Costa Rica - 1 person per capita
+54. Croatia - 1 person per capita
+55. Cuba - 1 person per capita
+56. Curaçao - 1 person per capita
+57. Cyprus - 1 person per capita
+58. Czech Republic - 1 person per capita
+59. Côte d'Ivoire - 1 person per capita
+60. Denmark - 1 person per capita
+61. Djibouti - 1 person per capita
+62. Dominica - 1 person per capita
+63. Dominican Republic - 1 person per capita
+64. Ecuador - 1 person per capita
+65. Egypt - 1 person per capita
+66. El Salvador - 1 person per capita
+67. Equatorial Guinea - 1 person per capita
+68. Eritrea - 1 person per capita
+69. Estonia - 1 person per capita
+70. Ethiopia - 1 person per capita
+71. Falkland Islands (Malvinas) - 1 person per capita
+72. Faroe Islands - 1 person per capita
+73. Fiji - 1 person per capita
+74. Finland - 1 person per capita
+75. France - 1 person per capita
+76. French Guiana - 1 person per capita
+77. French Polynesia - 1 person per capita
+78. French Southern Territories - 1 person per capita
+79. Gabon - 1 person per capita
+80. Gambia - 1 person per capita
+81. Georgia - 1 person per capita
+82. Germany - 1 person per capita
+83. Ghana - 1 person per capita
+84. Gibraltar - 1 person per capita
+85. Greece - 1 person per capita
+86. Greenland - 1 person per capita
+87. Grenada - 1 person per capita
+88. Guadeloupe - 1 person per capita
+89. Guam - 1 person per capita
+90. Guatemala - 1 person per capita
+91. Guernsey - 1 person per capita
+92. Guinea - 1 person per capita
+93. Guinea-Bissau - 1 person per capita
+94. Guyana - 1 person per capita
+95. Haiti - 1 person per capita
+96. Heard Island and McDonald Islands - 1 person per capita
+97. Holy See - 1 person per capita
+98. Honduras - 1 person per capita
+99. Hong Kong - 1 person per capita
+100. Hungary - 1 person per capita
+101. Iceland - 1 person per capita
+102. India - 1 person per capita
+103. Indonesia - 1 person per capita
+104. Iran (Islamic Republic of) - 1 person per capita
+105. Iraq - 1 person per capita
+106. Ireland - 1 person per capita
+107. Isle of Man - 1 person per capita
+108. Israel - 1 person per capita
+109. Italy - 1 person per capita
+110. Jamaica - 1 person per capita
+111. Japan - 1 person per capita
+112. Jersey - 1 person per capita
+113. Jordan - 1 person per capita
+114. Kazakhstan - 1 person per capita
+115. Kenya - 1 person per capita
+116. Kiribati - 1 person per capita
+117. Korea (Democratic People's Republic of) - 1 person per capita
+118. Korea (Republic of) - 1 person per capita
+119. Kuwait - 1 person per capita
+120. Kyrgyzstan - 1 person per capita
+121. Lao People's Democratic Republic - 1 person per capita
+122. Latvia - 1 person per capita
+123. Lebanon - 1 person per capita
+124. Lesotho - 1 person per capita
+125. Liberia - 1 person per capita
+126. Libya - 1 person per capita
+127. Liechtenstein - 1 person per capita
+128. Lithuania - 1 person per capita
+129. Luxembourg - 1 person per capita
+130. Macao - 1 person per capita
+131. Macedonia (the former Yugoslav Republic of) - 1 person per capita
+132. Madagascar - 1 person per capita
+133. Malawi - 1 person per capita
+134. Malaysia - 1 person per capita
+135. Maldives - 1 person per capita
+136. Mali - 1 person per capita
+137. Malta - 1 person per capita
+138. Marshall Islands - 1 person per capita
+139. Martinique - 1 person per capita
+140. Mauritania - 1 person per capita
+141. Mauritius - 1 person per capita
+142. Mayotte - 1 person per capita
+143. Mexico - 1 person per capita
+144. Micronesia (Federated States of) - 1 person per capita
+145. Moldova (Republic of) - 1 person per capita
+146. Monaco - 1 person per capita
+147. Mongolia - 1 person per capita
+148. Montenegro - 1 person per capita
+149. Montserrat - 1 person per capita
+150. Morocco - 1 person per capita
+151. Mozambique - 1 person per capita
+152. Myanmar - 1 person per capita
+153. Namibia - 1 person per capita
+154. Nauru - 1 person per capita
+155. Nepal - 1 person per capita
+156. Netherlands - 1 person per capita
+157. New Caledonia - 1 person per capita
+158. New Zealand - 1 person per capita
+159. Nicaragua - 1 person per capita
+160. Niger - 1 person per capita
+161. Nigeria - 1 person per capita
+162. Niue - 1 person per capita
+163. Norfolk Island - 1 person per capita
+164. Northern Mariana Islands - 1 person per capita
+165. Norway - 1 person per capita
+166. Oman - 1 person per capita
+167. Pakistan - 1 person per capita
+168. Palau - 1 person per capita
+169. Palestine, State of - 1 person per capita
+170. Panama - 1 person per capita
+171. Papua New Guinea - 1 person per capita
+172. Paraguay - 1 person per capita
+173. Peru - 1 person per capita
+174. Philippines - 1 person per capita
+175. Pitcairn - 1 person per capita
+176. Poland - 1 person per capita
+177. Portugal - 1 person per capita
+178. Puerto Rico - 1 person per capita
+179. Qatar - 1 person per capita
+180. Republic of Kosovo - 1 person per capita
+181. Romania - 1 person per capita
+182. Russian Federation - 1 person per capita
+183. Rwanda - 1 person per capita
+184. Réunion - 1 person per capita
+185. Saint Barthélemy - 1 person per capita
+186. Saint Helena, Ascension and Tristan da Cunha - 1 person per capita
+187. Saint Kitts and Nevis - 1 person per capita
+188. Saint Lucia - 1 person per capita
+189. Saint Martin (French part) - 1 person per capita
+190. Saint Pierre and Miquelon - 1 person per capita
+191. Saint Vincent and the Grenadines - 1 person per capita
+192. Samoa - 1 person per capita
+193. San Marino - 1 person per capita
+194. Sao Tome and Principe - 1 person per capita
+195. Saudi Arabia - 1 person per capita
+196. Senegal - 1 person per capita
+197. Serbia - 1 person per capita
+198. Seychelles - 1 person per capita
+199. Sierra Leone - 1 person per capita
+200. Singapore - 1 person per capita
+201. Sint Maarten (Dutch part) - 1 person per capita
+202. Slovakia - 1 person per capita
+203. Slovenia - 1 person per capita
+204. Solomon Islands - 1 person per capita
+205. Somalia - 1 person per capita
+206. South Africa - 1 person per capita
+207. South Georgia and the South Sandwich Islands - 1 person per capita
+208. South Sudan - 1 person per capita
+209. Spain - 1 person per capita
+210. Sri Lanka - 1 person per capita
+211. Sudan - 1 person per capita
+212. Suriname - 1 person per capita
+213. Svalbard and Jan Mayen - 1 person per capita
+214. Swaziland - 1 person per capita
+215. Sweden - 1 person per capita
+216. Switzerland - 1 person per capita
+217. Syrian Arab Republic - 1 person per capita
+218. Taiwan - 1 person per capita
+219. Tajikistan - 1 person per capita
+220. Tanzania, United Republic of - 1 person per capita
+221. Thailand - 1 person per capita
+222. Timor-Leste - 1 person per capita
+223. Togo - 1 person per capita
+224. Tokelau - 1 person per capita
+225. Tonga - 1 person per capita
+226. Trinidad and Tobago - 1 person per capita
+227. Tunisia - 1 person per capita
+228. Turkey - 1 person per capita
+229. Turkmenistan - 1 person per capita
+230. Turks and Caicos Islands - 1 person per capita
+231. Tuvalu - 1 person per capita
+232. Uganda - 1 person per capita
+233. Ukraine - 1 person per capita
+234. United Arab Emirates - 1 person per capita
+235. United Kingdom of Great Britain and Northern Ireland - 1 person per capita
+236. United States Minor Outlying Islands - 1 person per capita
+237. United States of America - 1 person per capita
+238. Uruguay - 1 person per capita
+239. Uzbekistan - 1 person per capita
+240. Vanuatu - 1 person per capita
+241. Venezuela (Bolivarian Republic of) - 1 person per capita
+242. Viet Nam - 1 person per capita
+243. Virgin Islands (British) - 1 person per capita
+244. Virgin Islands (U.S.) - 1 person per capita
+245. Wallis and Futuna - 1 person per capita
+246. Western Sahara - 1 person per capita
+247. Yemen - 1 person per capita
+248. Zambia - 1 person per capita
+249. Zimbabwe - 1 person per capita
+250. Åland Islands - 1 person per capita
+
